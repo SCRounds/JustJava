@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="email_add_chocolate">Agregue el chocolate? </string>
+    <string name="email_add_whipped_cream">Agregue la crema batida? </string>
+    <string name="chocolate_checkbox">Chocolate</string>
+    <string name="email_subject">Solo Java recibo de orden</string>
+    <string name="emailfield_hint">su_email@ejemplo.com</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="email_name">Nombre: </string>
+    <string name="order_button">Ordenar</string>
+    <string name="namefield_hint">Por favor, escriba su nombre</string>
+    <string name="quantity_header">Cantidad</string>
+    <string name="email__quantity">Cantidad: </string>
+    <string name="email_thank_you">Gracias!</string>
+    <string name="toppings_header">Ingredientes</string>
+    <string name="whipped_cream_checkbox">Crema Batida</string>
+</resources>
